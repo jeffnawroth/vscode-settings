@@ -1,0 +1,20 @@
+{
+  "recommendations": [
+    "antfu.browse-lite",
+    "antfu.iconify",
+    "antfu.vite",
+    "antfu.open-in-github-button",
+    "lokalise.i18n-ally",
+    "antfu.icons-carbon",
+    "antfu.theme-vitesse",
+    "dbaeumer.vscode-eslint",
+    "vue.volar",
+    "gitHub.copilot",
+    "usernamehw.errorlens",
+    "streetsidesoftware.code-spell-checker",
+    "eamodio.gitlens",
+    "github.vscode-github-actions",
+    "naumovs.color-highlight",
+    "znck.grammarly"
+  ]
+}
