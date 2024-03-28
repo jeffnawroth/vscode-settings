@@ -15,6 +15,7 @@
     "eamodio.gitlens",
     "github.vscode-github-actions",
     "naumovs.color-highlight",
-    "znck.grammarly"
+    "znck.grammarly",
+    "shd101wyy.markdown-preview-enhanced"
   ]
 }
