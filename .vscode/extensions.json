@@ -16,6 +16,7 @@
     "github.vscode-github-actions",
     "naumovs.color-highlight",
     "znck.grammarly",
-    "shd101wyy.markdown-preview-enhanced"
+    "shd101wyy.markdown-preview-enhanced",
+    "editorconfig.editorconfig"
   ]
 }
